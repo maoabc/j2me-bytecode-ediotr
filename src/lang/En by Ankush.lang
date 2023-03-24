@@ -1,0 +1,74 @@
+0:Save
+1:Edit
+2:Navigation
+3:Offset
+4:Code
+5:Instructions
+6:Exit
+7:Interpretation mnemonic script
+8:Save
+11:Select
+12:Copy
+13:Shear
+14:Paste
+15:Search
+16:Replacement
+17:Edit line
+18:at the beginning
+19:end
+20:the first line
+21:end of the line
+22:byte offset
+23:OK
+24:Column
+25:Select
+27:OK
+28:Instruction:
+29:Return
+30:Jump
+36:Search character
+37:Direction
+38:Down
+39:up
+40:From the beginning
+41:Replace character
+42:Line Editor
+43:Enter the number of rows (the maximum.
+44:Search of ...
+45:Replace the ...
+49:Return cursor
+50:Export code
+51:Import code
+52:Display shift
+53:Yes
+60:Methods
+61:Field
+62:Code
+63:Control character
+64:Exception table
+65:limit stack
+66:Help
+67:Save
+68:Add method
+69:Remove method
+70:Adding field
+71:Remove field
+72:Is it save?
+73:Continue
+74:Search
+75:Save path:
+76:byte-code editor
+77:Path
+78:Exception Editor
+79:add exception
+80:Delete the exception
+81:Exception
+82:abnormal items
+83:Domain Editor
+84:Method Editor
+85:Maximum stack depth
+86:Code Editor
+87:offset bytes:
+88:Current byte position:
+89:maximum number of bytes:
+90:Directive Description

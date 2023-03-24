@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+MIDlet-1: Main,/res/icon.png,Main
+MIDlet-Vendor: 959504432
+MIDlet-Version: 1.3.7
+MIDlet-Name: BytecodeEditor
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Delete-Confirm: Bytecode editor
